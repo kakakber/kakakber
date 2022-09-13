@@ -1,7 +1,8 @@
 ## About me
 Developer based in 🇮🇹<br />
 Currently completing a bachelor degree in computer science engineering at Polimi.<br />
-
+##### Contacts
+enricoalbe@icloud.com
 
 <!---
 kakakber/kakakber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
