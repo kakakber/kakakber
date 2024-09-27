@@ -1,6 +1,6 @@
 ## About me
 Developer based in 🇮🇹<br />
-Currently completing a bachelor degree in computer science engineering at Polimi.<br />
+Currently completing a master degree in computer science engineering at Polimi.<br />
 ##### Contacts
 enricoalbe@icloud.com
 
